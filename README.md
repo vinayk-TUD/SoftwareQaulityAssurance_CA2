@@ -29,11 +29,9 @@ An effective sprint backlog process must:
 * allow for team members to assign tasks to one another, collaborate and promote   communication
 * Have continuous updates on regular basis to know where you team and tasks stand
 
-<br>
 
 ![alt text](images/effort_estimat.png)
 
-<br>
 
 ### References 
 
