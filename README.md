@@ -245,7 +245,13 @@ When reviewing code the following criteria is generally a well detailed example 
 2. Architecture - The code should follow the defined architecture and design - classes and layers  
 3. Coding Best practices -  commenting of code, functioning features and performance
 4. NonFunctional Requirements - Maintainability with minimum support effort, readability, testability and usability 
-	
+
+
+- [Code Review for project](https://raw.githubusercontent.com/vinayk-TUD/SoftwareQaulityAssurance_CA2/codereview/images/codereview.PNG)
+
+
+
+
 
 ***	
 
