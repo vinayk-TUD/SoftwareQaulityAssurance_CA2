@@ -124,6 +124,31 @@ Once I complete the remaining branch and am completed my commits I will merge th
 As I am now finishing this section or task I will complete and commit to the versionContrl branch, open a pull request and merge to the develop branch. I will then create the final branch for the code review section.
 
  
+### Code review Checklist 
+
+##### Code Review
+ * Code reviews are the process of systematically examining team members or fellow programmers code for errors bugs and mistakes. The process has been proven to accelerate and streamline the software development cycle.  
+ 
+##### Approaches
+* **Email Thread** - Files sent via email for review  
+* **Pair Programing** - Developers working in pairs on the same code
+* **Over The Shoulder** - Having a colleague walk through your code with you
+* **Tool Assisted** - Software based code review tools
+
+##### Code Review Checklist
+A pull request (sometimes called merge requests), is a review request. You are asking someone to check the changes on a branch before merging into another branch. This starts a code review, code reviews are based on teams own viewpoints and understanding. 
+
+When reviewing code the following criteria is generally a well detailed example of a code review checklist and one which I intend to follow in my Java classes during this project.
+
+1. Code Formatting - naming conventions and code alignment such as indentation and screen fit
+2. Architecture - The code should follow the defined architecture and design - classes and layers  
+3. Coding Best practices - No hard coding, commenting of code, functioning features and performance
+4. NonFunctional Requirements - Maintainability with minimum support effort, readability, testability and usability 
+	
+	
+	
+
+
 ### References 
 
 - [Markdown Language](https://www.markdownguide.org/basic-syntax/)
@@ -137,3 +162,4 @@ As I am now finishing this section or task I will complete and commit to the ver
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Gitflow 2](https://www.perforce.com/blog/vcs/what-is-version-control)
 - [Gitflow 3](https://guides.github.com/introduction/flow/)
+- [Code Review](https://smartbear.com/learn/code-review/what-is-code-review/#:~:text=Code%20Review%2C%20or%20Peer%20Code,like%20few%20other%20practices%20can.)
