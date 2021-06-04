@@ -246,6 +246,8 @@ When reviewing code the following criteria is generally a well detailed example 
 3. Coding Best practices -  commenting of code, functioning features and performance
 4. NonFunctional Requirements - Maintainability with minimum support effort, readability, testability and usability 
 	
+![Code Review Link](images/codereview.PNG)
+
 
 ***	
 
